@@ -1,0 +1,13 @@
+.properties {
+  display: flex;
+}
+
+.property {
+  flex: 1;
+  text-align: center;
+  padding: 15px;
+}
+
+img.property-image {
+  height: 200px;
+}
